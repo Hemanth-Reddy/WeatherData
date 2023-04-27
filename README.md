@@ -6,7 +6,15 @@ Hemanth Reddy Nagireddy
 
 ## Technologies involved
 
-Java, Spring Boot, Spring JPA, JUnit, PostgreSQL, REST API, SLF4j logger, Maven build tool, Git
+- Java
+- Spring Boot
+- Spring JPA
+- JUnit
+- PostgreSQL
+- REST API
+- SLF4j logger
+- Maven build tool
+- Git
 
 ## Description
 
