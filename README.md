@@ -25,7 +25,7 @@ To run this project, please follow these steps:
 2. Clone the project from Git. 
 3. Navigate to the project directory using the command line.
 4. Run the spring boot application.
-5. Access the URL `http://127.127.0.1:8080/myapp/weather/79415` in your browser to retrieve the weather data for the zip code 79415.
+5. Access the URL `http://127.127.0.1:8080/timeforge/weather/{zipCode}` in your browser to retrieve the weather data for the given zip code within US.
 
 ## Conclusion
 
