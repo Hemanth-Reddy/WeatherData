@@ -5,9 +5,17 @@
         </encoder>
     </appender>
 
-    <logger name="com.example" level="DEBUG"/>
+    <logger name="com.timeforge" level="DEBUG"/>
 
     <root level="INFO">
         <appender-ref ref="CONSOLE"/>
     </root>
+
+    <logger name="com.timeforge" level="DEBUG" additivity="false">
+        <appender-ref ref="CONSOLE"/>
+    </logger>
+
+    <logger name="com.timeforge" level="ERROR" additivity="false">
+        <appender-ref ref="CONSOLE"/>
+    </logger>
 </configuration>
